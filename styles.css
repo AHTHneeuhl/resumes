@@ -1,0 +1,33 @@
+/* You can add some CSS styles too, if you want. */
+
+h1,
+h2,
+h3,
+h4 {
+  color: MidnightBlue;
+  padding-bottom: none;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid DimGray;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 1em;
+}
